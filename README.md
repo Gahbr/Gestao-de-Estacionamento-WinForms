@@ -2,8 +2,6 @@
 
 Este é um projeto desenvolvido em Visual Studio, utilizando C# e Windows Forms, que implementa um sistema de controle de entrada, saída e cobrança de veículos em uma garagem. Ele foi proposto durante a Academia .NET da ATOS/UFN
 
-## Design
-
 ## Funcionalidades
 
 1. Funcionamento das 7h às 20h, todos os dias.
@@ -45,3 +43,6 @@ Para persistência dos dados, o projeto utiliza arquivos e listas para armazenar
 
 ### Classe de Persistencia
 - Métodos de classe: lerArquivoVeiculosEntrada(), lerArquivoVeiculosSaida(), gravarArquivoVeiculosEntrada(), gravarArquivoVeiculosSaida()
+   
+## Design
+![DESIGN](https://github.com/Gahbr/Gestao-de-Estacionamento-WinForms/assets/80289718/8e4818f7-5ddd-4456-9628-a94eb0872448)
